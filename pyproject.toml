@@ -1,0 +1,9 @@
+[project]
+name = "lane-count-map"
+version = "0.1.0"
+description = "首都圏の道路を中心に、各道路の「車線数」情報を地図上に可視化・マッピングするためのデータセットを作成するプロジェクト"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.5",
+]
