@@ -1,3 +1,17 @@
+Licensing Information
+
+This project consists of two components: software source code and dataset.
+Each component is licensed under different terms as follows:
+
+1. Source Code: Licensed under the MIT License.
+2. Dataset: Licensed under the Open Database License (ODbL).
+
+---
+
+1. Source Code License
+
+The software source code in this repository is licensed under the MIT License.
+
 MIT License
 
 Copyright (c) 2025 Y-As(HOP)
@@ -19,3 +33,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+2. Dataset License
+
+The data and database contents provided in this project are licensed under the
+Open Database License (ODbL).
+
+This **Lane Count Map** is made available under the Open Database License: 
+http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual 
+contents of the database are licensed under the Database Contents License: 
+http://opendatacommons.org/licenses/dbcl/1.0/
